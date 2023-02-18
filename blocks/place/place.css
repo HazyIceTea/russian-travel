@@ -24,18 +24,7 @@
     }
 }
  
-@media screen and (max-width: 540px) {
-    .place{
-        grid-template-areas: "title"
-                             "website"
-                             "image"
-                             "paragraph";
-        width: 100%;
-        margin-bottom: 50px;
-    }
-}
-
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 560px) {
     .place{
         grid-template-areas: "title"
                              "website"

@@ -1,7 +1,6 @@
 .place__website{
     grid-area: website;
     max-width: 456px;
-    max-height: 46px;
     margin-bottom: 48px;
     align-self: end;
     padding-left: 40px;
@@ -23,7 +22,6 @@
     .place__website{
         padding-left: 16px;
         max-width: 288px;
-        max-height: 68px;
         margin-bottom: 30px;
     }
 }

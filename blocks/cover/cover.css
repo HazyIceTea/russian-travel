@@ -1,6 +1,5 @@
 .cover{
     background-image: url(../../images/cover-trains.jpg);
-    height: 740px;
     width: calc(100% - 48px*2);
     background-size: cover;
     position: relative;
@@ -30,19 +29,5 @@
 @media screen and (max-width: 1024px) {
   .cover{
     width: 100%;
-    height: 640px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .cover{
-    height: 480px;
-    
-  }
-}
-
-@media screen and (max-width: 540px) {
-  .cover{
-    height: 200px;
   }
 }
