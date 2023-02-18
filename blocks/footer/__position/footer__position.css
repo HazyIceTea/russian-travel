@@ -1,0 +1,9 @@
+.footer__position{
+    margin: 0 auto 24px;
+}
+
+@media screen and (max-width: 320px) {
+    .footer__position{
+        margin: 0 auto 24px 16px;
+    }
+}
