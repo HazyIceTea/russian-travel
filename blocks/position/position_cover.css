@@ -1,15 +1,15 @@
-.cover__position{
+.position_cover{
     margin: 0 auto 92px;
 }
 
 @media screen and (max-width: 768px) {
-    .cover__position{
+    .position_cover{
         margin-bottom: 88px;
     }
 }
 
 @media screen and (max-width: 540px) {
-    .cover__position{
+    .position_cover{
         margin-bottom: 64px;
     }
 }

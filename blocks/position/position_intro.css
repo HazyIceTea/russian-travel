@@ -1,21 +1,21 @@
-.intro__position{
+.position_intro{
     margin: 92px auto 92px 148px;
 }
 
 @media screen and (max-width: 1024px) {
-    .intro__position{
+    .position_intro{
         margin-left: 48px;
     }
 }
 
 @media screen and (max-width: 768px) {
-    .intro__position{
+    .position_intro{
         margin: 88px 24px;
     }
 }
 
 @media screen and (max-width: 320px) {
-    .intro__position{
+    .position_intro{
         margin: 64px 16px;
     }
 }

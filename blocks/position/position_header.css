@@ -1,21 +1,21 @@
-.header__position{
+.position_header{
     margin: 28px 48px 56px;
 }
 
 @media screen and (max-width: 1024px) {
-    .header__position{
+    .position_header{
         margin-bottom: 48px;
     }
 }
 
 @media screen and (max-width: 768px) {
-    .header__position{
+    .position_header{
         margin: 24px 28px 48px;
     }
 }
 
 @media screen and (max-width: 320px) {
-    .header__position{
+    .position_header{
         margin: 16px 16px 48px;
     }
 }
