@@ -1,4 +1,4 @@
-.place__website{
+.place__website {
     grid-area: website;
     max-width: 456px;
     margin-bottom: 48px;
@@ -7,19 +7,19 @@
 }
 
 @media screen and (max-width: 1024px) {
-    .place__website{
+    .place__website {
         padding-left: 32px;
     }
 }
 
 @media screen and (max-width: 768px) {
-    .place__website{
+    .place__website {
         padding-left: 28px;
     }
 }
- 
+
 @media screen and (max-width: 320px) {
-    .place__website{
+    .place__website {
         padding-left: 16px;
         max-width: 288px;
         margin-bottom: 30px;

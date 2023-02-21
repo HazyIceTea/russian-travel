@@ -1,10 +1,13 @@
-.header__lang-links{
+.header__lang-links {
   display: flex;
-  padding-top: 18px;
+  padding: 18px 0 0 0;
+  padding: 0;
+  list-style: none;
+  gap: 18px;
 }
 
 @media screen and (max-width: 320px) {
-  .header__lang-links{
+  .header__lang-links {
     padding-top: 14px;
   }
 }

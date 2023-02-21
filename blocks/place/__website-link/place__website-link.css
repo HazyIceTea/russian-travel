@@ -1,13 +1,13 @@
-.place__website-link{
-font-family: 'Inter', sans-serif;
-font-weight: 400;
-font-size: 18px;
-line-height: 1.22;
-color: white;
-margin: 0;
-transition: opacity .7s linear;
+.place__website-link {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.22;
+    color: white;
+    margin: 0;
+    transition: opacity .7s linear;
 }
 
-.place__website-link:hover{
+.place__website-link:hover {
     opacity: 0.8;
 }

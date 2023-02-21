@@ -1,9 +1,9 @@
-.position_footer{
+.position_place_footer {
     margin: 0 auto 24px;
 }
 
 @media screen and (max-width: 690px) {
-    .position_footer{
+    .position_place_footer {
         margin: 0 auto 24px 16px;
     }
 }
